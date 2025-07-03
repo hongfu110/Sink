@@ -24,7 +24,7 @@ export default defineNuxtConfig({
     redirectStatusCode: '301',
     linkCacheTtl: 60,
     redirectWithQuery: false,
-    homeURL: 'https://sink.cool/dashboard/login',
+    homeURL: 'https://sink.lookme365.dpdns.org/dashboard/login',
     cfAccountId: '',
     cfApiToken: '',
     dataset: 'sink',
